@@ -10,3 +10,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	Once you have pushed your change to the staging area, you can compare that to the repo and make sure the change is limited.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When you are splitting off the main process or experimenting and things could change drastically.
