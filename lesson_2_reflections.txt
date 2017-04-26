@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 
 	Staging area is a "holding area" where you can lump changes together before uploading them to the repository. It allows you to work with just portions of changes instead of updating everything wehn you need to commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Once you have pushed your change to the staging area, you can compare that to the repo and make sure the change is limited.
+
